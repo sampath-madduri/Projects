@@ -1,0 +1,1 @@
+gogo is a customazied ai virtual assistant which can listen,speak and respond accordingly (inspired & refered from Google and Alexa) as of now the gogo is a new born with limited commands in future there would be continous updates and crazy features 
